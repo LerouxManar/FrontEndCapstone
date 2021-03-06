@@ -1,0 +1,21 @@
+.form-group-sign {
+        margin:auto;
+        align-items: center;
+        width:auto;
+        margin-top:5px;
+        width:350px;
+
+}
+.CreateAccountButton{
+    align-items: center;
+    border-radius: 25px;
+    width:350px;
+    margin:auto;
+    margin-left: 784px;
+    margin-top:12px;
+    background-color: #3acbf7;
+    border-color: #3acbf7;
+  
+
+
+}

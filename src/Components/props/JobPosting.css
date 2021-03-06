@@ -1,0 +1,119 @@
+*{
+    box-sizing:border-box;
+
+}
+
+.JobsPostings{
+    border:5px solid blue;
+    width: 75%;
+    margin: 25px;
+    padding-left: 30px;
+    padding-top: 15px;
+    text-decoration: none;
+    align-items: center;
+    margin: auto;
+    margin-top:25px;
+}
+
+.JobsPostings:hover {
+    border:5px solid red;
+    cursor: pointer;
+}
+
+.Description{
+    color: white;
+}
+
+.JobsPostings:hover .Description {
+    color:black;
+}
+
+.boxProps{
+    display:flex;
+}
+
+.sharingInfo{
+    width: 25%;
+    border:5px solid blue;
+    border-radius:5px ;
+    padding: 3px;
+    margin:25px;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
+sharingInfo.p:hover{
+    color:red;
+}
+    
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ApplyButton{
+    
+    background-color: #3acbf7;
+    border-color: #3acbf7;
+    color: whitesmoke;
+    border-radius: 7px;
+    
+    margin-bottom:8px;
+  
+    margin-top:30px;
+}

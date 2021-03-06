@@ -1,0 +1,13 @@
+.loginForm{
+
+    width: 25%;
+    margin-left: 450px;
+    margin-top: 250px;
+    float:left;
+    align-items: center;
+
+}
+.submitButton{
+    margin-left: 10px;
+}
+

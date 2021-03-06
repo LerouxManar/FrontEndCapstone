@@ -1,0 +1,39 @@
+
+.leaflet-container {
+ 
+  border-radius: 25px;
+  border-width: 5px;
+  border-style: dotted;
+  border-color: rebeccapurple;
+  margin: auto;
+  margin-bottom: 50px;
+  margin-top: 35px;
+
+}
+
+.markercluster-map { 
+  height: 90vh; 
+}
+
+.searchBar{
+  background-color: whitesmoke;
+  height: 35px;
+  border-radius: 4px;
+  width: 500px;
+  display: inline;
+  justify-content: space-around;
+  align-items: center;
+  position: center;
+  margin-left: 690px;
+  margin-top: 15px;
+  margin-right: 10px;
+
+}
+.searchButton{
+  background-color: #3acbf7;  
+  border-radius: 4px;
+  height: 35px;
+  width:auto;
+
+  
+}
